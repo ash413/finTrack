@@ -1,2 +1,8 @@
 
 node_modules
+
+.env
+
+fintrack-9-firebase-adminsdk-fbsvc-30cc718f65.json
+
+.DS_Store
